@@ -10,5 +10,3 @@ Add more info
 
 But the Mummy will appreciate the lack of humidity
 
-## Maybe delete
-An ill-considered change
